@@ -1,0 +1,48 @@
+body{
+    background: linear-gradient(#d47dbe 0%, #7dd4c1 100%);
+}
+h1{
+    color: blueviolet;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style:italic;
+    font-weight: 600;
+}
+#text_area
+{
+    width: 300px;
+}
+#img_1{
+    height: 240px;
+    width: 150px;
+}
+#img_2{
+    height: 240px;
+    width: 150px;
+}
+#img_3{
+    height: 240px;
+    width: 150px;
+}
+#footer{
+    background-color: linear-gradient(#ff6347 10%, #ee82ee 50%, #0000ff 40%);
+}
+#name_deveoper{
+   background-color: #d47dbe; 
+}
+h4{
+    color:beige;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+}
+
+#camera{
+    width:100px;
+    border: radius 30px;
+    padding:20px;
+    box-shadow:lightblue;
+}
+
+img:hover{
+    background-color: lightskyblue;
+    border-radius: 110px;
+}
